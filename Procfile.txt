@@ -1,1 +1,1 @@
-web: gunicorn app:House_API
+web: gunicorn House_API:app
